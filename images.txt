@@ -1,1 +1,1 @@
-prom/alertmanager:v0.27.0
+grafana/grafana:v10.0.9
