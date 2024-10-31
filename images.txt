@@ -1,1 +1,1 @@
-zabbix/zabbix-server:tag
+zabbix/zabbix-server-mysql
