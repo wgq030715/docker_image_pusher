@@ -1,1 +1,1 @@
-bitnami/prometheus
+camptocamp/prometheus-server
